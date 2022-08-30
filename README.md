@@ -1,2 +1,3 @@
-# Toy-Compiler
-Our group's submission for the course project for Compiler Construction CSF363.
+# Compiler-Construction
+
+Assignment as part of CS F363 (Compiler Construction). All the relevant details are present in Coding details. 
